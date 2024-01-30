@@ -23,6 +23,12 @@ namespace SandwichMenuApp
         public MainWindow()
         {
             InitializeComponent();
+            MakeTheMenu();
+        }
+
+        private void MakeTheMenu()
+        {
+            throw new NotImplementedException();
         }
     }
 }
